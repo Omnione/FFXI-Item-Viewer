@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Item Viewer and Editor\\Item Viewer and Editor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB728E70-3E5C-4C63-9244-F11B31EAAF5C}|Item Viewer and Editor\\Item Viewer and Editor.csproj|f:\\item viewer and editor\\item viewer and editor\\item viewer and editor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB728E70-3E5C-4C63-9244-F11B31EAAF5C}|Item Viewer and Editor\\Item Viewer and Editor.csproj|solutionrelative:item viewer and editor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB728E70-3E5C-4C63-9244-F11B31EAAF5C}|Item Viewer and Editor\\Item Viewer and Editor.csproj|f:\\item viewer and editor\\item viewer and editor\\item viewer and editor\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB728E70-3E5C-4C63-9244-F11B31EAAF5C}|Item Viewer and Editor\\Item Viewer and Editor.csproj|solutionrelative:item viewer and editor\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "F:\\Item Viewer and Editor\\Item Viewer and Editor\\Item Viewer and Editor\\ItemData.cs",
+              "RelativeDocumentMoniker": "Item Viewer and Editor\\ItemData.cs",
+              "ToolTip": "F:\\Item Viewer and Editor\\Item Viewer and Editor\\Item Viewer and Editor\\ItemData.cs",
+              "RelativeToolTip": "Item Viewer and Editor\\ItemData.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwF8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:37:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Item Viewer and Editor\\Item Viewer and Editor\\Item Viewer and Editor\\Form1.cs",
+              "RelativeDocumentMoniker": "Item Viewer and Editor\\Form1.cs",
+              "ToolTip": "F:\\Item Viewer and Editor\\Item Viewer and Editor\\Item Viewer and Editor\\Form1.cs",
+              "RelativeToolTip": "Item Viewer and Editor\\Form1.cs",
+              "ViewState": "AgIAABYDAAAAAAAAAAAqwC8DAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:24:01.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
