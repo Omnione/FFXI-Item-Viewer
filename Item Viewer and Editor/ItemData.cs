@@ -41,15 +41,14 @@ namespace Item_Viewer_and_Editor
         // Data for mapping hexadecimal element values to names and colors
         public static readonly Dictionary<int, ElementInfo> elementData = new Dictionary<int, ElementInfo>
         {
-            { 0, new ElementInfo { Name = "None", Color = Color.Gray } },
-            { 1, new ElementInfo { Name = "Fire", Color = Color.OrangeRed } },
-            { 2, new ElementInfo { Name = "Ice", Color = Color.SkyBlue } },
-            { 3, new ElementInfo { Name = "Wind", Color = Color.LimeGreen } },
-            { 4, new ElementInfo { Name = "Earth", Color = Color.Sienna } },
-            { 5, new ElementInfo { Name = "Lightning", Color = Color.Yellow } },
-            { 6, new ElementInfo { Name = "Water", Color = Color.Blue } },
-            { 7, new ElementInfo { Name = "Light", Color = Color.White } },
-            { 8, new ElementInfo { Name = "Dark", Color = Color.Purple } }
+            { 0, new ElementInfo { Name = "Fire", Color = Color.OrangeRed } },
+            { 1, new ElementInfo { Name = "Ice", Color = Color.SkyBlue } },
+            { 2, new ElementInfo { Name = "Wind", Color = Color.LimeGreen } },
+            { 3, new ElementInfo { Name = "Earth", Color = Color.Sienna } },
+            { 4, new ElementInfo { Name = "Lightning", Color = Color.Yellow } },
+            { 5, new ElementInfo { Name = "Water", Color = Color.Blue } },
+            { 6, new ElementInfo { Name = "Light", Color = Color.White } },
+            { 7, new ElementInfo { Name = "Dark", Color = Color.Purple } }
         };
 
         // Data for mapping hexadecimal equipment slot values to names
