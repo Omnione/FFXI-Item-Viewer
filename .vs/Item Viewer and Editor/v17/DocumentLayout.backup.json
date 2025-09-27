@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Item Viewer and Editor\\Item Viewer and Editor\\",
+  "WorkspaceRootPath": "F:\\FFXI-Item-Viewer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB728E70-3E5C-4C63-9244-F11B31EAAF5C}|Item Viewer and Editor\\Item Viewer and Editor.csproj|f:\\item viewer and editor\\item viewer and editor\\item viewer and editor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB728E70-3E5C-4C63-9244-F11B31EAAF5C}|Item Viewer and Editor\\Item Viewer and Editor.csproj|f:\\ffxi-item-viewer\\item viewer and editor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB728E70-3E5C-4C63-9244-F11B31EAAF5C}|Item Viewer and Editor\\Item Viewer and Editor.csproj|solutionrelative:item viewer and editor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB728E70-3E5C-4C63-9244-F11B31EAAF5C}|Item Viewer and Editor\\Item Viewer and Editor.csproj|f:\\item viewer and editor\\item viewer and editor\\item viewer and editor\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB728E70-3E5C-4C63-9244-F11B31EAAF5C}|Item Viewer and Editor\\Item Viewer and Editor.csproj|f:\\ffxi-item-viewer\\item viewer and editor\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB728E70-3E5C-4C63-9244-F11B31EAAF5C}|Item Viewer and Editor\\Item Viewer and Editor.csproj|solutionrelative:item viewer and editor\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -64,22 +64,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ItemData.cs",
-              "DocumentMoniker": "F:\\Item Viewer and Editor\\Item Viewer and Editor\\Item Viewer and Editor\\ItemData.cs",
+              "DocumentMoniker": "F:\\FFXI-Item-Viewer\\Item Viewer and Editor\\ItemData.cs",
               "RelativeDocumentMoniker": "Item Viewer and Editor\\ItemData.cs",
-              "ToolTip": "F:\\Item Viewer and Editor\\Item Viewer and Editor\\Item Viewer and Editor\\ItemData.cs",
+              "ToolTip": "F:\\FFXI-Item-Viewer\\Item Viewer and Editor\\ItemData.cs",
               "RelativeToolTip": "Item Viewer and Editor\\ItemData.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAmwF8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T16:37:11.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T16:37:11.188Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\Item Viewer and Editor\\Item Viewer and Editor\\Item Viewer and Editor\\Form1.cs",
+              "DocumentMoniker": "F:\\FFXI-Item-Viewer\\Item Viewer and Editor\\Form1.cs",
               "RelativeDocumentMoniker": "Item Viewer and Editor\\Form1.cs",
-              "ToolTip": "F:\\Item Viewer and Editor\\Item Viewer and Editor\\Item Viewer and Editor\\Form1.cs",
+              "ToolTip": "F:\\FFXI-Item-Viewer\\Item Viewer and Editor\\Form1.cs",
               "RelativeToolTip": "Item Viewer and Editor\\Form1.cs",
               "ViewState": "AgIAABYDAAAAAAAAAAAqwC8DAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
